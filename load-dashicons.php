@@ -2,7 +2,7 @@
 /**
  * Load Dashicons
  *
- * {@link https://developer.wordpress.org/resource/dashicons Dashicons} is the official icon font of the WordPress admin as of 3.8. This plugin loads the Dashicon font on the entire site and for every visitor, enabling the use of Dashicons anywhere.
+ * {@link https://developer.wordpress.org/resource/dashicons Dashicons} is the official icon font of the WordPress admin as of 3.8. This plugin loads the Dashicons font on the entire site and for every visitor, enabling the use of Dashicons anywhere.
  *
  * @link      https://github.com/Spartelfant/load-dashicons Load Dashicons source code
  *
@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Load Dashicons
  * Plugin URI:        https://github.com/Spartelfant/load-dashicons
- * Description:       <a href="https://developer.wordpress.org/resource/dashicons">Dashicons</a> is the official icon font of the WordPress admin as of 3.8. This plugin loads the Dashicon font on the entire site and for every visitor, enabling the use of Dashicons anywhere.
+ * Description:       <a href="https://developer.wordpress.org/resource/dashicons">Dashicons</a> is the official icon font of the WordPress admin as of 3.8. This plugin loads the Dashicons font on the entire site and for every visitor, enabling the use of Dashicons anywhere.
  * Version:           2020.08.10
  * Requires at least: 3.8
  * Tested up to:      5.5
